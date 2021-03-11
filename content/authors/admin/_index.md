@@ -1,25 +1,23 @@
 ---
-bio: My major interests include data modelling, machine learning, design and, deployment of shiny apps.
+bio: After 5 years of working in public health programs as a social and behavioral scientist I am now looking into leveraging my expertise into turning data collected from implementation into insights that can further inform process and help achieve goals though data science and analysis.
 education:
   courses:
-  - course: MSc in Statistics
-    institution: University of Nairobi
-    year: Sep 2021
-  - course: BSc in Economics, Statistics Major
-    institution: University of Nairobi
-    year: 2015
-  - course: BSc in Data Science, R track
-    institution: Data Camp Online Campus
-    year: 2020
-email: "vmandela99@gmail.com"
+  - course: Masters in Data analytics
+    institution: KCA University
+    year: Enrolled
+  - course: B.Arts in Economics and Sociology, Economics Major
+    institution: Kenyatta University
+    year: 2014
+  - 
+email: "susankorwa7@gmail.com"
 highlight_name: false
 interests:
 - Data science
-- Machine learning
-- ShinyApps and dashboard designs
+- Monitoring and Evaluation
+- Mentorship and Supervision
 organizations:
-- name: CSV RESEARCH SOLUTIONS COMPANY
-  url: https://www.csvresearch.com/
+- name: 
+  url: 
 role: Data Scientist
 social:
 - icon: envelope
@@ -27,18 +25,18 @@ social:
   link: /#contact
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/VictorMandela8
+  link: https://twitter.com/skorwa
 - icon: youtube
   icon_pack: fab
-  link: https://www.youtube.com/channel/UCEAeELl2BiOrJdYsMcHWb8g
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/vmandela99
+  link: https://github.com/korwa
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/vmandela99
+  link: https://www.linkedin.com/in/susan-korwa-412433108/
 superuser: true
-title: Victor Mandela
+title: Susan Korwa
 ---
 
 Victor Mandela is a data scientist at CSV research solutions company, his major roles are to integrate machine learning principles into software and development of shiny applications. He is passionate about getting insights from data with deep experience in the development of market based solutions seeking to solve the toughest social and development issues facing bottom of the pyramid communities in frontier markets all over the world.
